@@ -32,9 +32,7 @@ test:
 about:
   home: https://gitlab.com/moscm/sekv-e
   summary: SEKV-E is a Python-based parameters extractor for the simplified EKV model.
-  description: 'SEKV-E is a Python-based parameters extractor for the simplified EKV
-    model, which is developed by ICLAB, EPFL. While it has been developed to serve
-    the needs of low-power analog circuit designs.'
+  description: 'SEKV-E is a Python-based parameters extractor for the simplified EKV model, which is developed by ICLAB, EPFL. While it has been developed to serve the needs of low-power analog circuit designs.'
   license: MIT
   license_family: MIT
   license_file: LICENSE
